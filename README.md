@@ -2,6 +2,9 @@
 
 A small full-stack queue management app. Python (Flask + SQLite) backend, vanilla JS frontend.
 
+## Live Demo
+https://queueflow-5rk3.onrender.com
+
 ## Run
 ```bash
 pip install -r requirements.txt
