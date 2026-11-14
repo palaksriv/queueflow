@@ -4,6 +4,7 @@ A small full-stack queue management app. Python (Flask + SQLite) backend, vanill
 
 ## Live Demo
 https://queueflow-5rk3.onrender.com
+
 The free-tier server sleeps when idle, so the first load may take up to a minute.
 
 ## Run
